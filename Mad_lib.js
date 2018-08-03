@@ -9,7 +9,7 @@ var noise = prompt("Please type your favorite animal noise");
 //alerts user is done with input
 alert("You're done!");
 
-//User Input and String concatenation to create the variable message  end-result
+//User Input and String concatenation to create the variable message end-result
 var message = adjective + " Macdonald had a ";
 message += noun + ", E-I-E-I-O </br> and on that ";
 message += noun + " he had a ";
